@@ -16,7 +16,7 @@ defaults:
     values:
       layout: "post"
 
-projects:
+Publications:
   sort_by: pushed
   # sort_by options:
   #   - pushed
@@ -25,17 +25,21 @@ projects:
   exclude:
     archived: false
     forks: true
-    projects:
-    # - repo-name
+    Publications:
+    
+Education:
 
-# social_media:
+ResearchInterests:
+
+
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: zihan-zhou-81630166
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -43,16 +47,17 @@ projects:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: https://zihan-zhou.github.io/
   # youtube: your_username
 
-topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
+# topics:
+#   - name: CSS
+#     web_url: https://github.com/topics/css
+#     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+#   - name: Web design
+
+#   - name: Sass
+#     web_url: https://github.com/topics/sass
+#     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
